@@ -7,7 +7,7 @@
 5,KMART 1181 CLARKSON AU Cash Out $100.00 Purchase $17.00,-117.0,transaction,transfer
 6,WITHDRAWAL ONLINE MULTI 1032960 BPAY MANUAL,-826.35,term-deposit,cash-withdrawal
 7,TRANSFER,-600.0,loan,bank-fee
-8,C ADV NAB ATM FEE,-6.0,credit-card,bank-fee
+8,C ADV NAB ATM FEE,-6.0,credit-card,payment
 9,CUSC COLES 7587 WOLLONGONG 01/06/19 eftpos,-36.32,savings,transfer
 10,PAYMENT-BPAY-THANK YOU,500.0,credit-card,transfer
 11,LOAN APPROVAL FEE - HOUSING,-600.0,mortgage,transfer
@@ -21,18 +21,18 @@
 19,Interest - Cash Advances,-0.2,credit-card,bank-fee
 20,Interest Cr $0.16,0.16,savings,interest
 21,Dishonour Fee,-12.0,savings,payment
-22,PAYPAL *BIGWPHOTOSO 4029357733 AUS,-9.6,credit-card,transfer
+22,PAYPAL *BIGWPHOTOSO 4029357733 AUS,-9.6,credit-card,payment
 23,DEBIT CARD REFUND UBER help.uber.com     SYDNEY       AUS,8.0,transaction,transfer
 24,INTEREST,4.41,savings,interest
 25,Foreign Transaction Fee,-2.76,credit-card,bank-fee
-26,Interest,20.0,transaction,transfer
+26,Interest,20.0,transaction,refund
 27,Interest Paid,0.54,savings,interest
 28,Tix - Receipt 385472 - To Orange Everyday,-100.98,savings,transfer
 29,Intl Visa Fee,-0.03,savings,bank-fee
 30,Electronic Payment Return Fee,-24.65,transaction,transfer
 31,ATM WITHDRAWAL  TOOWOOMBA SC,-40.0,transaction,transfer
 32,Wdl ATM CBA ATM  BONDI BCH SHOP NSW 212395   AUS,-400.0,transaction,cash-withdrawal
-33,MAINTENANCE FEE,-3.99,transaction,payment
+33,MAINTENANCE FEE,-3.99,transaction,bank-fee
 34,Offshore Service Margins**,-0.06,credit-card,bank-fee
 35,Transfer from xx1569 NetBank Owners draw,200.0,transaction,transfer
 36,PERIODICAL PAYMENT TO COMPLETE FIXED HL,-957.18,transaction,transfer
@@ -51,7 +51,7 @@
 49,ATM W/D WBC 140 THE P-13:32,-400.0,transaction,cash-withdrawal
 50,Direct debit dishonour fee,-10.0,savings,transfer
 51,NAB Connect Fee February 2019,-2.0,transaction,payment
-52,HOL transfer to L1.2 #1140341786,-2.0,savings,payment
+52,HOL transfer to L1.2 #1140341786,-2.0,savings,transfer
 53,MB Transfer Ex 12-3091- 0136088-00,37.0,transaction,transfer
 54,International Transaction Fee Receipt 123265,-2.35,transaction,bank-fee
 55,CREDIT INTEREST,0.01,savings,interest
@@ -84,17 +84,17 @@
 82,25 EXCESS INTERNET/ONLINE TRANSACTIONS - FEE,-15.0,savings,transfer
 83,COLES 0511 CORIO AU Cash Out $50.00,-50.0,transaction,payment
 84,BONUS INTEREST,3.21,savings,interest
-85,V5661 19/05 WOOLWORTHS 1669 CE SURRY HILL 07182601101,-8.55,transaction,transfer
-86,BONUS CREDIT INTEREST PAID,0.11,savings,interest
+85,V5661 19/05 WOOLWORTHS 1669 CE SURRY HILL 07182601101,-8.55,transaction,payment
+86,BONUS CREDIT INTEREST PAID,0.11,savings,transfer
 87,INTEREST CHARGES - CAS H,-1.44,credit-card,bank-fee
 88,Overdrawn Acct Management Fee,-24.65,transaction,transfer
-89,Redi ATM DCP-Chatswood C 822035 AUS,-202.0,transaction,transfer
+89,Redi ATM DCP-Chatswood C 822035 AUS,-202.0,transaction,payment
 90,Refund of POS purchase054040_WOOLWORTHS ONLINE 8843,149.85,savings,transfer
 91,Direct Credit 301500 ONLINE MENTOR CommBiz CATAPULT 3031339,-387.0,transaction,transfer
 92,MONTHLY ACCOUNT FEE,-5.0,transaction,payment
 93,LOAN INSTALMENT     TO A/C 894754724,-2073.46,transaction,transfer
 94,Wdl ATM Redi ATM CEXP BERKSHIREBerkshire AU,-100.0,transaction,transfer
-95,Non CBA ATM Withdrawal Fee,-2.9,transaction,transfer
+95,Non CBA ATM Withdrawal Fee,-2.9,transaction,bank-fee
 96,INTEREST DEBIT,-25.68,mortgage,bank-fee
 97,Phone/Internet Tfr From    0000477168388,4694.47,credit-card,transfer
 98,Ext Tfr TONYOBJRRent128WAS - NET#626619380 to 117714816 55 Central Inc BBL - Ben,-24.65,transaction,payment
@@ -103,7 +103,7 @@
 101,EFTPOS PURCHASE UNITED ACCACIA RIDGE     3239,-15.99,savings,transfer
 102,Internal Transfer - Receipt No 803890From 0034060754,298.0,mortgage,transfer
 103,AP#11207661 TO CHILDSPACE WILTON,-320.0,mortgage,transfer
-104,ATM Direct Charge Fe,-2.5,savings,payment
+104,ATM Direct Charge Fe,-2.5,savings,bank-fee
 105,Overseas Withdrawal Fee,-24.65,transaction,payment
 106,International Transaction Fee - Receipt 176483,-0.59,transaction,bank-fee
 107,Account Service Fee,-5.0,transaction,payment
@@ -111,39 +111,39 @@
 109,Interest Charge,-136.67,mortgage,bank-fee
 110,POS purchase131059/0129120040 KMART 1060 MAROOCHYDORE AU,-10.0,savings,transfer
 111,ATM 15th10:38PB BALIMYSTIQUE FOREIGN CUR TRAN FEE,-2.97,transaction,payment
-112,Atm Withdrawal -Wbc 14Jun10:34 Westpac Kingsford 2 Au,-80.0,transaction,transfer
+112,Atm Withdrawal -Wbc 14Jun10:34 Westpac Kingsford 2 Au,-80.0,transaction,cash-withdrawal
 113,Interest Credit,0.95,savings,interest
 114,Loan RepaymentInterest 12-3142-0464023-91 002,-92.0,transaction,payment
 115,V4660 29/05 FOREIGN CURRENCY TRAN FEE 74105049149,-3.05,transaction,bank-fee
 116,International Purchase Fee,-3.27,transaction,payment
 117,Tfr Wdl BPAY Internet         01Ju****3050     Telstra Corp Ltd,-50.0,transaction,cash-withdrawal
 118,ATO PAYMENT SYDNEY AU,-5683.0,credit-card,payment
-119,Eftpos Refund 30Jun20:33 Beem It Beem.Com.Au Nswau,13.25,transaction,refund
+119,Eftpos Refund 30Jun20:33 Beem It Beem.Com.Au Nswau,13.25,transaction,transfer
 120,Foreign Transaction Fee,-1.53,credit-card,bank-fee
 121,Visa Purchase 06Sep Woolworths 2507 Plainland,-20.0,transaction,transfer
 122,DR.Int To 01/03/2019,-2.0,credit-card,payment
 123,Cardless Cash return,123.45,transaction,transfer
-124,UNDRAWN FEE,-6.79,investment,transfer
+124,UNDRAWN FEE,-6.79,investment,payment
 125,BONUS CR INTEREST $20.26 LESS R/W TAX $6.07,14.19,savings,transfer
 126,EFTPOS Purchase - Receipt 046517 METRO PETROLEUM C P NDELL PARK N Date 22/12/18 Card 6446,-5.0,transaction,payment
 127,CommBank app TFR to 61477077020 bond bitch,-898.0,transaction,cash-withdrawal
 128,Direct Debit -CITY FITNESS GROUP LIMITED Ref: 0O10087M009B CityFitness G,-60.62,transaction,payment
 129,Transfer to CBA A/c NetBank NugWages,-1043.15,transaction,transfer
 130,J STEEL happi anuversuree - Osko Payment to +61-431442297 - Receipt 628293 ,-350.0,transaction,cash-withdrawal
-131,Easypay VISA Cash Advance Fee,-24.65,transaction,payment
+131,Easypay VISA Cash Advance Fee,-24.65,transaction,transfer
 132,PAYMENT BY AUTHORITY TO DEBT BUSTERS 156108140,-176.65,transaction,transfer
-133,CASH ADVANCE FEE,-4.0,credit-card,payment
+133,CASH ADVANCE FEE,-4.0,credit-card,bank-fee
 134,TRANSFER FROM CTRLINK NEWSTART 411J8379303079449X,126.1,transaction,transfer
 135,GROSS INT          16.23 TAX 47.00%          7.00 NET INTEREST,9.23,savings,interest
 136,FN Transfer To Card 1040,-250.0,transaction,cash-withdrawal
 137,"Direct Credit SENG,KARINA YIME - Transfers",500.0,transaction,transfer
 138,LOAN INTEREST,-171.07,mortgage,bank-fee
-139,CR LONSDALE ST         ME LBOURNE - EFTPOS Refund - Receipt 27561Date 03 Mar 2019 Time 3:59PM Card 462263xxxxxx9702,258.0,transaction,refund
+139,CR LONSDALE ST         ME LBOURNE - EFTPOS Refund - Receipt 27561Date 03 Mar 2019 Time 3:59PM Card 462263xxxxxx9702,258.0,transaction,transfer
 140,NABATM CSH 07th11:29QUEEN VICTORIA MARKE,-100.0,transaction,cash-withdrawal
 141,DEBIT INTEREST,-0.06,transaction,bank-fee
 142,FEE ACCOUNT 084472 974873387,-14.8,transaction,payment
-143,Fee Refund,10.0,transaction,refund
-144,AP#10990960 TO A J MULLIGAN Transfer to A J MULLIGAN - 10 LOAN REPYMT,-500.0,transaction,payment
+143,Fee Refund,10.0,transaction,transfer
+144,AP#10990960 TO A J MULLIGAN Transfer to A J MULLIGAN - 10 LOAN REPYMT,-500.0,transaction,transfer
 145,Tfr Wdl BPAY Internet 16Sep06****9160estpac Cards,-1000.0,transaction,cash-withdrawal
 146,WITHDRAWAL MOBILE 1119950 TFR Westpac Cho,-7.0,savings,cash-withdrawal
 147,Cash Withdrawal,-800.0,transaction,cash-withdrawal
@@ -204,7 +204,7 @@
 202,AP#15769277 TO AA INSURANCE - PREMIUM 200112348072 AMV012348072 HORTON JM,-647.98,mortgage,cash-withdrawal
 203,Visa Purchase                 24Feb Pho Victoria         North Mel,-14.5,transaction,payment
 204,FROM D J & S G BLAIKIE GST,2430.0,transaction,transfer
-205,LOAN ADMINISTRATION CHARGE,-30.0,mortgage,transfer
+205,LOAN ADMINISTRATION CHARGE,-30.0,mortgage,payment
 206,DEBIT INTEREST CHARGED,-0.18,transaction,bank-fee
 207,AUTHORISATION ONLY - EFTPOS PURCHASE AT PREMIER CABS 131017   SYDNEY    NSW   AU,-13.97,transaction,payment
 208,ExtrasReward QT BONDI AU,20.0,transaction,transfer
@@ -224,8 +224,8 @@
 222,MCDONALDS PRESTON PRESTON AUS Card xx3841 Value Date: 24/05/2019,-18.9,transaction,payment
 223,INTERNET BANKING BUSINESS,-15.0,transaction,payment
 224,IB TRANSFER 427219684 TO 303-092-6913143 9:47PM 22FEB,-300.0,transaction,transfer
-225,Overdraft Interest,-24.65,transaction,payment
-226,Interest,-50.0,transaction,bank-fee
+225,Overdraft Interest,-24.65,transaction,transfer
+226,Interest,-50.0,transaction,payment
 227,CARDLESS CASH WITHDRAWAL AT HANDYBANK SOUTHCITY O/S 11028227 14/11/17,-40.0,transaction,payment
 228,IRD:Tax On Interest,-13.68,savings,payment
 229,ANNUAL CARD FEE,-395.0,credit-card,payment
@@ -234,8 +234,8 @@
 232,IB PAYMENT 437150117,-145.0,transaction,transfer
 233,PP*8469CODE - Visa Refund - Receipt 185460 In 4029357733 Date 24 Jan 2019 Card 462263xxxxxx7193,2.0,transaction,refund
 234,Internet Withdrawal 29Jun10:11 Dinner,-60.0,transaction,payment
-235,INTERNET BANKING - REDRAW TRANSFER 685374 TO 013278279104236,-2000.0,mortgage,transfer
-236,TRANSACTION FEE,-5.0,transaction,payment
+235,INTERNET BANKING - REDRAW TRANSFER 685374 TO 013278279104236,-2000.0,mortgage,cash-withdrawal
+236,TRANSACTION FEE,-5.0,transaction,bank-fee
 237,V3326 23/06 HCA Eftpos Smithfield 74249238174,-20.0,transaction,payment
 238,AC/Rfa Wildzone Western Sprin,-27.6,credit-card,payment
 239,+Account Fee,-24.0,credit-card,payment
@@ -244,16 +244,16 @@
 242,TO CARD 7806  Google2103,-86.25,investment,transfer
 243,VISA Refund-ALDI STORES - ADELAIDE   ADELAIDE AIRPAU#0050221(Ref.266948711633),129.64,credit-card,transfer
 244,Referral Fee,-24.65,transaction,transfer
-245,Withdrawal at WESTPACMID CITY O/S SYDNEY 2 AU,-130.0,transaction,cash-withdrawal
+245,Withdrawal at WESTPACMID CITY O/S SYDNEY 2 AU,-130.0,transaction,payment
 246,Refund Purchase BEEM IT BEEM.COM.AU AU,20.0,transaction,transfer
 247,Atm Operator Fee Wdl          20Jun08:14 Cexp Kingsgrove        Kingsgrove   02Au,-211.65,transaction,payment
 248,INTEREST PAID - INTRODUCTORY,0.13,savings,interest
 249,Cash Advance Fee - Online Banking,-2.5,credit-card,payment
-250,AMERICAN EXPRESS     CB TabletApp BPAY 5082 ****1004,-100.0,transaction,transfer
+250,AMERICAN EXPRESS     CB TabletApp BPAY 5082 ****1004,-100.0,transaction,cash-withdrawal
 251,V5617 16/12 EPML DE PROXI   2327965  PARI Ref: 74972108350 Frgn Amt: 60.00 EUR,-94.94,savings,transfer
 252,FRAUD REFUND EVENT,50.0,transaction,transfer
 253,TFR Acc14000 TO 12389,500.0,savings,transfer
-254,Business Base Balance Fee,-24.65,transaction,payment
+254,Business Base Balance Fee,-24.65,transaction,transfer
 255,Bonus Interest,9.84,savings,interest
 256,WITHDRAWAL ONLINE MULTI 1032960 BPAY MANUAL,-2246.66,term-deposit,cash-withdrawal
 257,Account Fee,-10.0,transaction,payment
@@ -287,10 +287,10 @@
 285,4621Valentine sleeping bag BILL PAYMENT 22:06-69954,-100.0,transaction,transfer
 286,CASH DEPOSIT,54.88,loan,transfer
 287,REV VISA DEBIT PURCHASE,6.99,transaction,transfer
-288,"DEBIT CARD PURCHASE MOSCHINO PARIS        FRA EUR 1,186.50 incl. Westpac Foreign Transaction Fee AUD $56.20",-240.65,credit-card,payment
+288,"DEBIT CARD PURCHASE MOSCHINO PARIS        FRA EUR 1,186.50 incl. Westpac Foreign Transaction Fee AUD $56.20",-240.65,credit-card,transfer
 289,INTERNET EXTERNAL TRANSFER TO 734130 000559841 REF NO 4717361 Levi ole,-36.0,transaction,payment
 290,Interest for 01/06/2019 - 30/06/2019,4.66,savings,transfer
-291,INTEREST ON PURCHASE(S),-254.96,credit-card,payment
+291,INTEREST ON PURCHASE(S),-254.96,credit-card,transfer
 292,OVERSEAS ATM FEE,-5.0,transaction,payment
 293,Loan Interest,-1261.54,mortgage,bank-fee
 294,Transfer to xx5897 NetBank,-50.0,savings,transfer
@@ -298,10 +298,10 @@
 296,31 EXCESS EFTPOS  PHONE BANKING  AUTOMATIC TRANSACTIONS - FEE,-18.6,savings,transfer
 297,Credit Interest,0.4,savings,interest
 298,Interest,-152.17,mortgage,bank-fee
-299,REFUND 7130 REG 01,11.99,credit-card,interest
+299,REFUND 7130 REG 01,11.99,credit-card,transfer
 300,VISA PURCHASE   GOOGLE*GLU GAMES INC G.CO HELPPAY 04/05 AU AUD,-7.99,transaction,payment
 301,INTERNET BPAY GEM VISA CARD 6010732002896028,-31.46,savings,payment
-302,OVER LIMIT FEE,-12.5,transaction,bank-fee
+302,OVER LIMIT FEE,-12.5,transaction,payment
 303,ANZ BREAKFREE PACKAGE FEE REF 000000000725578,-395.0,transaction,bank-fee
 304,CUSC NP-Mobil on Spence Ca irns 0 14/06/19 Cash Withdrawal,-80.0,savings,transfer
 305,WITHDRAWAL CASH 0000000 YASS NSW,-20.0,transaction,transfer
@@ -318,26 +318,26 @@
 316,"TRANSFER FROM H R BRADLEY, M J L HUGHES - 06",250.0,transaction,transfer
 317,WOOLWORTHS 1766 KOGARAH N AUS,-9.7,credit-card,payment
 318,INTEREST PAID,171.96,savings,interest
-319,REFUND OF FEE CHARGED ON 012009 CANVA FOR WORK YEARLY 8778877815 USAUSD,20.0,transaction,transfer
+319,REFUND OF FEE CHARGED ON 012009 CANVA FOR WORK YEARLY 8778877815 USAUSD,20.0,transaction,refund
 320,Atm Withdrawal                08Feb14:10 Cashcard\Sth Melbourne Markets #3\Sou Au,-300.0,transaction,transfer
-321,NEILS PARTS (AUSTRALIA From: NEIL'S PARTS Ref: JAN0025/11/2017,25.0,transaction,refund
+321,NEILS PARTS (AUSTRALIA From: NEIL'S PARTS Ref: JAN0025/11/2017,25.0,transaction,transfer
 322,EFTPOS WDL BROWN DOG CAFE Woolloonga AU,-4.5,transaction,payment
 323,IB TFR 102385123 to 102385118,-300.0,savings,transfer
 324,ANNUAL FEE,-29.0,credit-card,payment
-325,COMP INT #50341 2.15%,32.44,term-deposit,interest
+325,COMP INT #50341 2.15%,32.44,term-deposit,transfer
 326,Settlement Fee,-100.0,loan,bank-fee
 327,REFUND FROM EFTPOS 0581035 Medicare Benefit 01/02,37.05,transaction,refund
 328,Internet Deposit              26Feb12:16 From 0000451712349,100.0,savings,transfer
 329,INTEREST CHARGED ON PURCHASES,-36.81,credit-card,payment
 330,Bill Payment TOMPSETT RALP Ref: awesome Love f&r shoes&being,100.0,transaction,transfer
-331,Foreign ATM Direct Charge,-24.65,transaction,payment
-332,DD SET-UP FEE #0306652,-10.0,credit-card,payment
+331,Foreign ATM Direct Charge,-24.65,transaction,transfer
+332,DD SET-UP FEE #0306652,-10.0,credit-card,bank-fee
 333,ACCOUNT FEES A.K.F. SATOKO TAKAN,-16.1,transaction,payment
 334,Visa Purchase 28Apr Iga West Pymble West Pymb,-6.0,transaction,payment
 335,International ATM Withdrawal Fee Receipt 128609,-2.5,transaction,cash-withdrawal
 336,MONTHLY ADMINISTRATION FEE,-6.0,savings,payment
-337,Eftpos Purchase 03May10:40 Woolworths 2507 Plainlands Qldau,-20.0,transaction,cash-withdrawal
-338,WOOLWORTHS 4366 DI ANELLA WA - EFTPOS Purchase with Cash Out - Receipt 303334 - Cash amount $100.00<BR/>Date 26 Jun 2019 Time 5:10PM Card 462263xxxxxx1712,-140.38,transaction,bank-fee
+337,Eftpos Purchase 03May10:40 Woolworths 2507 Plainlands Qldau,-20.0,transaction,transfer
+338,WOOLWORTHS 4366 DI ANELLA WA - EFTPOS Purchase with Cash Out - Receipt 303334 - Cash amount $100.00<BR/>Date 26 Jun 2019 Time 5:10PM Card 462263xxxxxx1712,-140.38,transaction,payment
 339,Multiple Transfer NetBank pay,-6443.97,transaction,cash-withdrawal
 340,INTEREST,-2006.12,investment,bank-fee
 341,IRD WITHHOLDING TAX 33.000%,-0.15,transaction,payment
@@ -345,8 +345,8 @@
 343,CBA OTHER CASH ADV FEE,-2.5,credit-card,payment
 344,Woolworths 1327WoolgoolgaAu (AUD 8.40 @ 0.9491),-9.07,credit-card,bank-fee
 345,VIRGIN MOBILE        676063 ANZ BPAY,-86.0,credit-card,payment
-346,CUECARD 09th10:49SHELL BERMAGUI DIR CHG OTH ATM,-2.9,transaction,cash-withdrawal
-347,Admin Fee,-12.0,loan,bank-fee
+346,CUECARD 09th10:49SHELL BERMAGUI DIR CHG OTH ATM,-2.9,transaction,payment
+347,Admin Fee,-12.0,loan,payment
 348,PIE TAX 28.000%,-0.64,investment,bank-fee
 349,M G SHARPE Sharpe. - Deposit - Receipt 825465 - Ref Number Sharpe,1890.26,transaction,transfer
 350,Direct Debit Dishonour,3064.15,transaction,transfer
@@ -359,12 +359,12 @@
 357,HONOUR FEE - PERSONAL,-10.0,transaction,payment
 358,PAY UNIVERSITY OF OTAGO OTHER PAYMENTS,-250.0,transaction,cash-withdrawal
 359,WBC FEE - WITHDRAWAL AT O/S ATM HIBA      JPN 00026401017208050219,-5.0,loan,payment
-360,Atm Operator Fee Wdl          04Aug11:12 Trailer Cash 31          Sydney       02,-3.5,transaction,bank-fee
+360,Atm Operator Fee Wdl          04Aug11:12 Trailer Cash 31          Sydney       02,-3.5,transaction,payment
 361,V6155 05/02 NAB ATM CASH NEWMARKET 31105880002,-2000.0,transaction,transfer
 362,REFUND-EFTPOS UBET QLD 18 CENTRAL PARK AVE,2.0,transaction,transfer
 363,Transfer from CBA NetBank Invoice 0017,1061.28,transaction,transfer
 364,Bonus Interest,7.02,savings,interest
-365,TRANSFER TO S M & S BROOMFIELD - 06,-33.84,transaction,transfer
+365,TRANSFER TO S M & S BROOMFIELD - 06,-33.84,transaction,payment
 366,Processing Fee,-6.0,loan,bank-fee
 367,VISA-Kayo Sports              61297766319  ****8830,-25.0,transaction,cash-withdrawal
 368,CASH DEPOSIT CBA ATM  MOOLOOLABA A   QLD 446601   AUS,567.5,transaction,transfer
@@ -372,13 +372,13 @@
 370,CARD REPLACEMENT NZ FEE,-20.0,credit-card,payment
 371,DD DISHONOUR FEE,-2.5,mortgage,bank-fee
 372,BPAY: ORIGIN ENERGY Web Tf PP Ref-200040099430 #234598408,-50.0,transaction,transfer
-373,RESIDENT WITHHOLD TAX ON INTEREST PAID,-7.0,savings,transfer
+373,RESIDENT WITHHOLD TAX ON INTEREST PAID,-7.0,savings,bank-fee
 374,INTEREST CHARGE ADJUST MENT,20.0,transaction,transfer
 375,MICROSOFT*XBOX LIVE GO MSBILL.INFO AU AUS Card xx8295 Value Date: 15/06/2019,-10.95,transaction,payment
 376,Visa Purchase O/Seas          24Feb Eur4.99 Mega Pro,-7.99,transaction,payment
 377,Intl ATM W/D Fee 750209,-6.0,transaction,payment
-378,WESTPAC CARDS CommBank app BPAY 5181 ****4003edit card,-250.04,transaction,cash-withdrawal
-379,OVERLIMIT FEE,-20.0,credit-card,payment
+378,WESTPAC CARDS CommBank app BPAY 5181 ****4003edit card,-250.04,transaction,transfer
+379,OVERLIMIT FEE,-20.0,credit-card,bank-fee
 380,17/06 14:46 HOLE IN THE,-9.5,transaction,payment
 381,Fraud Refund/Visa Purchase Cr Atm Credit,310.0,transaction,transfer
 382,Fun - Receipt 159463 - From Orange Everyday  ,70.0,savings,transfer
@@ -388,7 +388,7 @@
 386,WOOLWORTHS 2749 - Visa Purchase - Receipt 196080In COOLANGATTA Date 31 May 2019 Card 462263xxxxxx6799,-32.62,transaction,payment
 387,WITHDRAWAL MOBILE 1865208 TFR Westpac eSa Rent,-666.0,transaction,transfer
 388,Direct Debit Cash Converters 215593 B10208T88,-70.0,savings,transfer
-389,CASH WITHDRAWAL,-2500.0,transaction,cash-withdrawal
+389,CASH WITHDRAWAL,-2500.0,transaction,payment
 390,Campaign Interest Bom Maxi Saver Special Rate,1.2,savings,transfer
 391,ATM W/D CEXP NORTHMEA-06:39,-100.0,transaction,cash-withdrawal
 392,Debit Interest,-0.05,transaction,bank-fee
@@ -397,7 +397,7 @@
 395,Credit Interest,5.09,savings,interest
 396,AP DISHONOUR FEE #15530729,-2.5,transaction,bank-fee
 397,WITHDRAWAL AT STG ATM DERNANCRTSA ATM06595111589 250817,-150.0,transaction,cash-withdrawal
-398,Annual Fee,-179.0,credit-card,payment
+398,Annual Fee,-179.0,credit-card,bank-fee
 399,FEE FOR OVERSEAS TELEGRAPHIC TRANSFER,-10.0,transaction,transfer
 400,EFTPOS CASH WITHDRAWAL Unearthly Delights       1618,-10.0,savings,transfer
 401,BWA ATM 254 GEORGE BA NSW 200434 AUS,-200.0,credit-card,payment
@@ -405,14 +405,14 @@
 403,ATM RECOVERY FEE KIW TRANSACTION,-1.0,transaction,payment
 404,OVERSEAS TELEGRAPHIC TRANSFER REFERENCE 114732 - FEE,-9.92,foreign,payment
 405,GROSS CR INTEREST $0.33 LESS R/W TAX $0.06,0.27,transaction,transfer
-406,NPP to NAB MOB 082057 305948062,-100.0,transaction,cash-withdrawal
+406,NPP to NAB MOB 082057 305948062,-100.0,transaction,payment
 407,CRED VOUCHER TOMS ITALIAN NORTH BEACH AUS,12.0,credit-card,transfer
 408,Direct Debit Dishon Fee,-5.0,transaction,payment
 409,ATM OPERATOR FEE WITHDRAWAL IGA Kingsthorpe,-2.0,credit-card,payment
 410,INTERNET BANKING BPAY,-500.0,transaction,transfer
 411,BANK @ POST W/D,-3.25,transaction,bank-fee
 412,INTEREST,-0.09,transaction,bank-fee
-413,Foreign Currency Conversn Fee,-0.22,savings,transfer
+413,Foreign Currency Conversn Fee,-0.22,savings,bank-fee
 414,MOUNT MACEDON HOTEL MOUNT MACEDO AUS AUS Card xx7379 Value Date: 23/01/2017,-43.33,transaction,payment
 415,CREDIT INTEREST,0.01,transaction,interest
 416,From linked account xx5027 - Internal transfer,32.0,transaction,transfer
@@ -460,7 +460,7 @@
 458,INTEREST CREDIT,0.81,transaction,interest
 459,WITHDRAWAL BY EFTPOS 0001063 OAKDEN MEDICAL CENTR   HILLCREST 10/11,-135.55,transaction,payment
 460,ATM OPERATOR FEE -09:23,-2.5,transaction,bank-fee
-461,RTGS HIGH VALUE PAYMENT REF NO 1314795 FRIENDS PROVIDENT BSB  732050 MR KRISTOFER,20018.62,transaction,refund
+461,RTGS HIGH VALUE PAYMENT REF NO 1314795 FRIENDS PROVIDENT BSB  732050 MR KRISTOFER,20018.62,transaction,transfer
 462,CommBank app TFR from DAVID GONZALEZ R lol,50.0,transaction,transfer
 463,Account Service Fee,-10.0,transaction,payment
 464,ATM DIRECT CHARGE - WITHDRAWAL,-2.8,savings,payment
@@ -469,16 +469,16 @@
 467,FEE FOR PURCHASE OF BANK CHEQUE,-10.0,transaction,payment
 468,Cardless Cash for collection,-20.0,transaction,payment
 469,ATM#902860-BEAUMARIS SHOPPING CENTREBEAUMARIS    WA,-24.65,transaction,transfer
-470,WITHDRAWAL,-50.0,loan,bank-fee
+470,WITHDRAWAL,-50.0,loan,cash-withdrawal
 471,WITHDRAWAL MOBILE 3128460 BPAY SUNSHINE B Kids in action,-22.0,transaction,payment
-472,ELECTRONIC DECLINE FEE,-1.5,savings,payment
+472,ELECTRONIC DECLINE FEE,-1.5,savings,transfer
 473,CASH WITHDRAWAL AT WARWICK CSC 3:31PM,-3000.0,transaction,transfer
 474,ANZ ATM DOCKLANDS 833 COLLINS #2 MELBOURNE VI,-150.0,transaction,cash-withdrawal
 475,(T) DE Reject Return Fee,-2.5,transaction,payment
-476,AP#15676621 TO A J MULLIGAN Transfer to A J MULLIGAN - 01,-700.0,transaction,transfer
+476,AP#15676621 TO A J MULLIGAN Transfer to A J MULLIGAN - 01,-700.0,transaction,cash-withdrawal
 477,PAYPAL *SPEEDYSPARE 4-00:00,-106.0,transaction,payment
 478,Transfer in,381.84,transaction,transfer
-479,WAIVE: OVERDRAWN FEE,6.0,transaction,refund
+479,WAIVE: OVERDRAWN FEE,6.0,transaction,transfer
 480,REVERSAL OF DEBIT TRANSACTION ON 050319 REFERENCE 1229568,20.0,transaction,transfer
 481,Deposit - Cash,10.0,transaction,transfer
 482,AP#13114172 TO S M & S BROOMFIELD Transfer to S M & S BROOMFIELD - 07 LOAN PMT,-130.0,transaction,payment
@@ -489,9 +489,9 @@
 487,To Bruce Marvelly Tanya Ha 08:50PM 24Apr Holidays anniversary weekend,-20.0,credit-card,payment
 488,POS W/D SEA SALT \EMM-18:07,-15.1,transaction,payment
 489,COUNTER FEE,-5.0,transaction,payment
-490,BANK CHEQUE,-20.0,transaction,payment
+490,BANK CHEQUE,-20.0,transaction,transfer
 491,POS Refund#006775-55 Central Inc 4413357    \MAYLANDS06 AU,10.0,transaction,transfer
-492,CASH ADVANCE FEE - ONL INE BANKING,-150.0,credit-card,transfer
+492,CASH ADVANCE FEE - ONL INE BANKING,-150.0,credit-card,payment
 493,WEB EXTERNAL TFR,-85.6,transaction,transfer
 494,M2K Technology S M2K Wages - Receipt 140401 - From  033305 562259,1054.2,savings,transfer
 495,REFUND OF BANK CHEQUE FEE - BWA CUSTOMER,-80.0,transaction,cash-withdrawal
@@ -509,9 +509,9 @@
 507,WITHDRAWAL-OSKO PAYMENT 1645215 Cutting Edge Lawnmowing - Brendan Lawn Dec-May,-440.0,transaction,transfer
 508,FOREIGN CURRENCY CONVERSION FEE,-2.0,credit-card,payment
 509,INTERNET TRANSFER CREDIT FROM 202823454 REF NO 51618372,100.0,transaction,transfer
-510,C ADV INTNL ATM FEE,-5.52,credit-card,payment
+510,C ADV INTNL ATM FEE,-5.52,credit-card,bank-fee
 511,ALDI STORES - AIRPORT AIRPORT WES - EFTPOS Purchase with Cash Out - Receipt 37951 - Cash amount $10.00<BR/>Date 10 Mar 2019 Time 2:39PM Card 462263xxxxxx9702,-10.99,transaction,payment
-512,Cardless Atm Withdrawal       24Aug11:11 St.George Bank        Doonside Nsw 2  Au,-100.0,transaction,payment
+512,Cardless Atm Withdrawal       24Aug11:11 St.George Bank        Doonside Nsw 2  Au,-100.0,transaction,transfer
 513,DIRECT DEBIT From: A,-50.0,transaction,cash-withdrawal
 514,VISA DEBIT PURCHASE CARD 6062 7-ELEVEN 4141 BROADBEACH,-11.7,transaction,payment
 515,WITHDRAWAL ONLINE 3412945 BPAY APN NEWSPA APN Newspapers,-93.6,transaction,payment
